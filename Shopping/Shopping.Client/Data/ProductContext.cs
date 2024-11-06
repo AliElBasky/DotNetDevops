@@ -22,6 +22,14 @@ namespace Shopping.Client.Data
                 Price = 950.00m,
                 Category = "Smart Phones"
             },
+            new Product()
+            {
+                Name = "Mo's Iphone",
+                Description = "Mohamed Ali phone",
+                ImageFile = "product-2.png",
+                Price = 900.00m,
+                Category = "Smart Phones"
+            },
         };
     }
 }
