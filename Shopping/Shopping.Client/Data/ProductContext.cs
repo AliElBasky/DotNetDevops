@@ -25,7 +25,7 @@ namespace Shopping.Client.Data
             new Product()
             {
                 Name = "Mo's Iphone",
-                Description = "Mohamed Ali phone",
+                Description = "Mohamed Ali Iphone",
                 ImageFile = "product-2.png",
                 Price = 900.00m,
                 Category = "Smart Phones"
